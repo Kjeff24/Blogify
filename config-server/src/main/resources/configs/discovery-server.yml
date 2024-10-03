@@ -1,0 +1,8 @@
+#spring.eureka.client.register-with-eureka=false
+#spring.eureka.client.fetch-registry=false
+
+spring:
+  eureka:
+    client:
+      register-with-eureka: false
+      fetch-registry: false
